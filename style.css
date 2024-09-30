@@ -1,8 +1,14 @@
+body {
+display: block;
+margin-left: 50px;
+margin-right: 50px;
 
+}
 h1 {
 
 text-align: center;
 justify-content: center;
+margin-bottom: 5px;
 
 }
 
@@ -11,7 +17,7 @@ justify-content: center;
 
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-bottom: 2px solid blue; 
+    border-bottom: 4px solid blue; 
     padding-bottom: 5px; 
     margin-top: 20px; 
     margin-bottom: 10px; 
@@ -38,7 +44,7 @@ h2 {
 }
 
 footer {
-     margin-top: 5px;
+     margin-top: 10px;
      padding-top: 20px;
      height: 80px;
     color: #fff;
