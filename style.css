@@ -1,0 +1,16 @@
+/* H2 */
+
+h2 {
+    border-bottom: 2px solid blue; 
+    padding-bottom: 5px; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+}
+
+/* description */
+.description {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    padding: 10px; 
+    background-color: #fff;
+    border-radius: 5px;
+}
